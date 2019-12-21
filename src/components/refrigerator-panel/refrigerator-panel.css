@@ -1,0 +1,22 @@
+.heading {
+  font-size: 15px;
+}
+.secondaryHeading {
+  font-size: 15px;
+  color: white;
+}
+.icon {
+  vertical-align: bottom;
+  height: 20px;
+  width: 20px;
+}
+.details {
+  align-items: center;
+}
+.column {
+  flex-basis: 33.33%;
+}
+.helper {
+  border-left: 2px solid black;
+  padding: 1px 2px;
+}

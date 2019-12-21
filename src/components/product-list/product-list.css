@@ -1,0 +1,23 @@
+.cardGrid {
+  padding-top: 64px;
+  padding-bottom: 64px;
+  min-height: 550px;
+}
+
+.card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.cardMedia {
+  padding-top: 56.25%;
+}
+.cardContent {
+  flex-grow: 1;
+}
+
+.btn-back {
+  height: 400px;
+  position: absolute;
+}
